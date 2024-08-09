@@ -1,0 +1,357 @@
+{
+    "meta": {
+        "game": "iidx",
+        "playtype": "SP",
+        "service": "HBK"
+    },
+    "scores": [
+        {
+            "score": 3118,
+            "lamp": "HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "26043",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723079817000,
+            "judgements": {
+                "pgreat": 1450,
+                "great": 218
+            }
+        },
+        {
+            "score": 3060,
+            "lamp": "HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "27007",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723080020000,
+            "judgements": {
+                "pgreat": 1429,
+                "great": 202
+            }
+        },
+        {
+            "score": 2779,
+            "lamp": "EX HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "28065",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723092066000,
+            "judgements": {
+                "pgreat": 1300,
+                "great": 179
+            }
+        },
+        {
+            "score": 2723,
+            "lamp": "EX HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "27058",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723091836000,
+            "judgements": {
+                "pgreat": 1255,
+                "great": 213
+            }
+        },
+        {
+            "score": 2650,
+            "lamp": "HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "80037",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723093143000,
+            "judgements": {
+                "pgreat": 1181,
+                "great": 288
+            }
+        },
+        {
+            "score": 2609,
+            "lamp": "HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "28080",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723090398000,
+            "judgements": {
+                "pgreat": 1189,
+                "great": 231
+            }
+        },
+        {
+            "score": 2347,
+            "lamp": "HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "27015",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723090630000,
+            "judgements": {
+                "pgreat": 1113,
+                "great": 121
+            }
+        },
+        {
+            "score": 2326,
+            "lamp": "HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "23047",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723078859000,
+            "judgements": {
+                "pgreat": 1108,
+                "great": 110
+            }
+        },
+        {
+            "score": 2285,
+            "lamp": "HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "23026",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723078624000,
+            "judgements": {
+                "pgreat": 1042,
+                "great": 201
+            }
+        },
+        {
+            "score": 2265,
+            "lamp": "EX HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "80017",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723092961000,
+            "judgements": {
+                "pgreat": 1056,
+                "great": 153
+            }
+        },
+        {
+            "score": 2252,
+            "lamp": "EX HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "80004",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723092744000,
+            "judgements": {
+                "pgreat": 1027,
+                "great": 198
+            }
+        },
+        {
+            "score": 2231,
+            "lamp": "FULL COMBO",
+            "matchType": "inGameID",
+            "identifier": "27037",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723091465000,
+            "judgements": {
+                "pgreat": 1035,
+                "great": 161
+            }
+        },
+        {
+            "score": 2229,
+            "lamp": "HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "80016",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723004069000,
+            "judgements": {
+                "pgreat": 950,
+                "great": 329
+            }
+        },
+        {
+            "score": 2156,
+            "lamp": "HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "27041",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723090811000,
+            "judgements": {
+                "pgreat": 1019,
+                "great": 118
+            }
+        },
+        {
+            "score": 2152,
+            "lamp": "EX HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "80028",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723092573000,
+            "judgements": {
+                "pgreat": 1026,
+                "great": 100
+            }
+        },
+        {
+            "score": 2077,
+            "lamp": "FAILED",
+            "matchType": "inGameID",
+            "identifier": "24045",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723010778000,
+            "judgements": {
+                "pgreat": 937,
+                "great": 203
+            }
+        },
+        {
+            "score": 1949,
+            "lamp": "HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "80009",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723079224000,
+            "judgements": {
+                "pgreat": 940,
+                "great": 69
+            }
+        },
+        {
+            "score": 1948,
+            "lamp": "HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "16029",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723005203000,
+            "judgements": {
+                "pgreat": 885,
+                "great": 178
+            }
+        },
+        {
+            "score": 1790,
+            "lamp": "EX HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "80003",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723092421000,
+            "judgements": {
+                "pgreat": 825,
+                "great": 140
+            }
+        },
+        {
+            "score": 1761,
+            "lamp": "HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "80023",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723079072000,
+            "judgements": {
+                "pgreat": 855,
+                "great": 51
+            }
+        },
+        {
+            "score": 1534,
+            "lamp": "HARD CLEAR",
+            "matchType": "inGameID",
+            "identifier": "27049",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723091642000,
+            "judgements": {
+                "pgreat": 640,
+                "great": 254
+            }
+        },
+        {
+            "score": 1384,
+            "lamp": "FAILED",
+            "matchType": "inGameID",
+            "identifier": "24003",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723010880000,
+            "judgements": {
+                "pgreat": 630,
+                "great": 124
+            }
+        },
+        {
+            "score": 1270,
+            "lamp": "FAILED",
+            "matchType": "inGameID",
+            "identifier": "28058",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723079602000,
+            "judgements": {
+                "pgreat": 578,
+                "great": 114
+            }
+        },
+        {
+            "score": 1133,
+            "lamp": "FAILED",
+            "matchType": "inGameID",
+            "identifier": "27007",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723080099000,
+            "judgements": {
+                "pgreat": 537,
+                "great": 59
+            }
+        },
+        {
+            "score": 695,
+            "lamp": "FAILED",
+            "matchType": "inGameID",
+            "identifier": "80046",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723092238000,
+            "judgements": {
+                "pgreat": 309,
+                "great": 77
+            }
+        },
+        {
+            "score": 558,
+            "lamp": "FAILED",
+            "matchType": "inGameID",
+            "identifier": "24045",
+            "difficulty": "HYPER",
+            "timeAchieved": 1723010619000,
+            "judgements": {
+                "pgreat": 198,
+                "great": 162
+            }
+        },
+        {
+            "score": 247,
+            "lamp": "FAILED",
+            "matchType": "inGameID",
+            "identifier": "26043",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723005340000,
+            "judgements": {
+                "pgreat": 111,
+                "great": 25
+            }
+        },
+        {
+            "score": 98,
+            "lamp": "FAILED",
+            "matchType": "inGameID",
+            "identifier": "27021",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723091157000,
+            "judgements": {
+                "pgreat": 47,
+                "great": 4
+            }
+        },
+        {
+            "score": 75,
+            "lamp": "FAILED",
+            "matchType": "inGameID",
+            "identifier": "80017",
+            "difficulty": "ANOTHER",
+            "timeAchieved": 1723092821000,
+            "judgements": {
+                "pgreat": 29,
+                "great": 17
+            }
+        }
+    ]
+}
