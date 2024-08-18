@@ -22,7 +22,7 @@ def get_lamp(clear_flag):
     elif clear_flag == 3:
         return "EASY CLEAR"
     elif clear_flag == 4:
-        return "NORMAL CLEAR"
+        return "CLEAR"
     elif clear_flag == 5:
         return "HARD CLEAR"
     elif clear_flag == 6:
